@@ -1,0 +1,47 @@
+#title{
+  background-color:  #2f86a6;
+  padding-bottom: 15%;
+}
+.container-fluid{
+
+  padding:3% 15%;
+}
+.card{
+  border-width: medium;
+  border-color: black;
+    padding-bottom: 3%;
+}
+.card-header{
+  border-width: medium;
+  border-color: black;
+    padding-bottom: 3%;
+
+}
+.card-footer{
+  border-width: medium;
+  border-color: black;
+    padding-bottom: 3%;
+
+}
+h1{
+  color: white;
+  font-family: 'Dosis', sans-serif;
+  font-size: 4rem;
+  line-height: 1.5;
+  text-align: center;
+  padding-top: 5%;
+}
+.animal-img{
+  width: 90%;
+}
+.animal-1-img{
+  width: 70%;
+  height: 20%;
+}
+#dogs-for-adoption{
+  padding:10%;
+  text-align: center;
+}
+.row {
+    padding-bottom: 15%;
+}
